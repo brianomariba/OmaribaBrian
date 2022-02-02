@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Brian Omariba Portfolio
 
 # Your name to show in the footer
-author: Some Person
+author: Brian Omariba 
 
 # --- List of links in the navigation bar --- #
 
@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://techtribe.com"
 
 # --- Logo --- #
 
@@ -39,24 +39,24 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "brianomariba22@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: brianomariba22
+  github: brianomariba22
+  twitter: brianomariba22
+  patreon: brianomariba22
+  youtube: brianomariba22
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin: brianomariba
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
+#  stackoverflow: "brianomariba22"
+#  snapchat: 
+#  instagram: brianomariba22
+#  spotify: 
+#  telephone: +254724384646
+#  steam: 
+#  twitch: brianomariba22
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
